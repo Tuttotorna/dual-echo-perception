@@ -1,4 +1,5 @@
 # Dual-Echo — The Perception of the Self (IT / EN)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18362235.svg)](https://doi.org/10.5281/zenodo.18362235)
 
 This repository defines the **canonical textual starting point** for the Dual-Echo line.
 

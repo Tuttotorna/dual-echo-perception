@@ -1,6 +1,13 @@
 # Dual-Echo — The Perception of the Self (IT / EN)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18362235.svg)](https://doi.org/10.5281/zenodo.18362235)
 
+## Canonical Ecosystem Map
+
+This repository is part of the **MB-X.01 / OMNIA** ecosystem.
+
+Canonical architecture and full map:
+https://github.com/Tuttotorna/lon-mirror/blob/main/ECOSYSTEM.md
+
 This repository defines the **canonical textual starting point** for the Dual-Echo line.
 
 It contains the **phenomenological layer** describing the perception of the self,
